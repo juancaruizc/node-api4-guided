@@ -1,0 +1,20 @@
+{
+  "name": "node-api4-guided",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancaruizc/node-api4-guided.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juancaruizc/node-api4-guided/issues"
+  },
+  "homepage": "https://github.com/juancaruizc/node-api4-guided#readme"
+}
