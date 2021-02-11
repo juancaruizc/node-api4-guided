@@ -14,7 +14,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-app.use('/api/*', (_, res) => {
+app.use('/api/mars', (_, res) => {
   res.json({ data: 'Hello from mars' });
 });
 
